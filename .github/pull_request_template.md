@@ -1,28 +1,25 @@
-# [Jira@TK_<Enter Ticket ID>](<Enter Ticket URL>)
+## Summary *
+Briefly describe the changes made in this PR.
 
 ---
 
-## PR Type
+## JIRA Ticket *
+Add the ticket link.
 
-- [ ] Feature
+Example:
+TK-123
+
+---
+
+## Type of Change *
+- [ ] New Feature
 - [ ] Bug Fix
+- [ ] Refactor
+- [ ] More Unit Tests
+- [ ] Documentation
 
 ---
 
-## Description
-
-<!-- Explain the migration purpose -->
-
----
-
-## Files Added / Modified
-
-| File Name | Description |
-|-----------|-------------|
-| Example.java | Utility helper for response handling |
-
----
-
-## 📎 Additional Notes
-
-<!-- Any extra implementation details -->
+## Testing *
+- [ ] Unit Tested
+- [ ] Postman Tested
